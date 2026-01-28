@@ -1,0 +1,31 @@
+# Core dependencies for DiffSynth4MT
+torch>=2.0.0
+torchvision
+einops
+safetensors
+
+# Text encoder dependencies
+transformers>=4.40.0
+sentencepiece
+protobuf
+
+# Video I/O
+imageio
+imageio-ffmpeg
+
+# Model downloading
+modelscope
+
+# Progress bars
+tqdm
+
+# Image processing
+Pillow
+numpy
+
+# Optional: Memory optimization (uncomment if needed)
+# cupy-cuda12x
+
+# Optional: Faster attention (uncomment if needed)
+# flash-attn>=2.0.0
+# sageattention
