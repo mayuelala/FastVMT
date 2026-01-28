@@ -1,11 +1,17 @@
-### FastVMT: Eliminating Redundancy in Video Motion Transfer
+
+<div align="center">
+<h2><font color="red"> FastVMT⚡️: Eliminating Redundancy in Video Motion Transfer</h2>
 
 [Yue Ma](placeholder_url), [Zhikai Wang](placeholder_url), [Tianhao Ren](placeholder_url), [Mingzhe Zheng](placeholder_url), [Hongyu Liu](placeholder_url), [Jiayi Guo](placeholder_url), [Kunyu Feng](placeholder_url), [Yuxuan Xue](placeholder_url), [Zixiang Zhao](placeholder_url), [Konrad Schindler](placeholder_url), [Qifeng Chen](placeholder_url), [Linfeng Zhang](placeholder_url)
 
+
+<strong>is Accpeted by ICLR 2026</strong>
+ 
 <a href='placeholder_arxiv_url'><img src='https://img.shields.io/badge/ArXiv-XXXX.XXXXX-red'></a>
 <a href='placeholder_project_page'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 [![GitHub](https://img.shields.io/github/stars/mayuelala/FastVMT?style=social)](https://github.com/mayuelala/FastVMT)
 
+</div>
 <!-- Add demo GIFs here -->
 <!--
 <table class="center">
@@ -177,3 +183,4 @@ This repository borrows heavily from [DiffSynth-Studio](https://github.com/model
 ## 🧿 Maintenance
 
 This is the codebase for our research work. If you have any questions or ideas to discuss, feel free to open an issue.
+
