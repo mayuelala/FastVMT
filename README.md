@@ -66,7 +66,7 @@ pip install -e . # Editing mode
 - Python 3.10+
 - PyTorch 2.0+
 - CUDA 12.x
-- 24GB+ GPU VRAM recommended (can run on lower VRAM with CPU offload)
+- 80GB+ GPU VRAM recommended (can run on lower VRAM with CPU offload)
 
 ## 📥 Model Download
 
@@ -168,7 +168,7 @@ If you use this code, please cite:
 
 ## 📜 License
 
-This project inherits the license from the original [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) repository. See [LICENSE.md](LICENSE.md) for details.
+This project is open source and licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
 
 ## 💗 Acknowledgements
 
