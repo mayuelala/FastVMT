@@ -4,7 +4,7 @@
 
 <a href='placeholder_arxiv_url'><img src='https://img.shields.io/badge/ArXiv-XXXX.XXXXX-red'></a>
 <a href='placeholder_project_page'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-[![GitHub](https://img.shields.io/github/stars/placeholder/FastVMT?style=social)](https://github.com/placeholder/FastVMT)
+[![GitHub](https://img.shields.io/github/stars/placeholder/FastVMT?style=social)](https://github.com/Wind645/FastVMT)
 
 <!-- Add demo GIFs here -->
 <!--
@@ -29,10 +29,8 @@
 
 ## 📀 Demo Video
 
-https://user-images.githubusercontent.com/45789244/225698509-79c14793-3153-4bba-9d6e-ede7d811d7f8.mp4
+https://github.com/user-attachments/assets/a4c0a8e5-578a-4534-93aa-c1a1960edb37
 
-The video here is compressed due to the size limit of GitHub.
-The original full-resolution video is [here](https://hkustconnect-my.sharepoint.com/:v:/g/personal/cqiaa_connect_ust_hk/EXKDI_nahEhKtiYPvvyU9SkBDTG2W4G1AZ_vkC7ekh3ENw?e=Xhgtmk).
 
 ## 📋 Changelog
 
