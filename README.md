@@ -4,7 +4,7 @@
 
 <a href='placeholder_arxiv_url'><img src='https://img.shields.io/badge/ArXiv-XXXX.XXXXX-red'></a>
 <a href='placeholder_project_page'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-[![GitHub](https://img.shields.io/github/stars/placeholder/FastVMT?style=social)](https://github.com/Wind645/FastVMT)
+[![GitHub](https://img.shields.io/github/stars/mayuelala/FastVMT?style=social)](https://github.com/mayuelala/FastVMT)
 
 <!-- Add demo GIFs here -->
 <!--
