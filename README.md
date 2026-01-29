@@ -3,7 +3,7 @@
 [Yue Ma](placeholder_url), [Zhikai Wang](placeholder_url), [Tianhao Ren](placeholder_url), [Mingzhe Zheng](placeholder_url), [Hongyu Liu](placeholder_url), [Jiayi Guo](placeholder_url), [Kunyu Feng](placeholder_url), [Yuxuan Xue](placeholder_url), [Zixiang Zhao](placeholder_url), [Konrad Schindler](placeholder_url), [Qifeng Chen](placeholder_url), [Linfeng Zhang](placeholder_url)
 
 <a href='placeholder_arxiv_url'><img src='https://img.shields.io/badge/ArXiv-XXXX.XXXXX-red'></a>
-<a href='placeholder_project_page'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+<a href='[placeholder_project_page](https://ren-70637.github.io/FastVMT-Project-Page/)'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 [![GitHub](https://img.shields.io/github/stars/mayuelala/FastVMT?style=social)](https://github.com/mayuelala/FastVMT)
 
 <!-- Add demo GIFs here -->
