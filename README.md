@@ -8,7 +8,9 @@
 <strong>is Accpeted by ICLR 2026</strong>
  
 <a href='placeholder_arxiv_url'><img src='https://img.shields.io/badge/ArXiv-XXXX.XXXXX-red'></a>
-<a href='[placeholder_project_page](https://ren-70637.github.io/FastVMT-Project-Page/)'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+<a href='https://fastvmt.github.io/'>
+  <img src='https://img.shields.io/badge/Project-Page-Green'>
+</a>
 [![GitHub](https://img.shields.io/github/stars/mayuelala/FastVMT?style=social)](https://github.com/mayuelala/FastVMT)
 
 </div>
