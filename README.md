@@ -7,7 +7,7 @@
 
 <strong>is Accpeted by ICLR 2026</strong>
  
-<a href='placeholder_arxiv_url'><img src='https://img.shields.io/badge/ArXiv-XXXX.XXXXX-red'></a>
+<a href='placeholder_arxiv_url'><img src='https://img.shields.io/badge/ArXiv-2602.05551-red'></a>
 <a href='https://fastvmt.github.io/'>
   <img src='https://img.shields.io/badge/Project-Page-Green'>
 </a>
@@ -226,4 +226,5 @@ This repository borrows heavily from [DiffSynth-Studio](https://github.com/model
 ## 🧿 Maintenance
 
 This is the codebase for our research work. If you have any questions or ideas to discuss, feel free to open an issue.
+
 
